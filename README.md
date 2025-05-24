@@ -1,6 +1,6 @@
 # Health-Tech-Learning-Platform
 
-# 📚 Personalized Learning Platform for Health & Tech Education
+# Personalised Learning Platform for Health & Tech Education
 
 An adaptive learning and content-sharing platform focused on delivering high-quality, accessible education in health, wellness, and technology. It combines research summarisation, micro-learning, and intelligent content recommendations to support learners from diverse backgrounds and needs.
 
